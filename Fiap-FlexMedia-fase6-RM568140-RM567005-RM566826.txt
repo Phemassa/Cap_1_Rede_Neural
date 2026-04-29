@@ -1,0 +1,19 @@
+Fase 6 - Colheita de Soluções Inteligentes
+Transformando dados em ações
+
+Cap 1 - O despertar da Rede Neural
+
+GitHub: https://github.com/Phemassa/Cap_1_Rede_Neural
+
+Dataset - Google Drive:
+Motos: https://drive.google.com/drive/folders/1muSD2ofgKrm_ijeSDrRdTQU02itRvgp2?usp=drive_link
+Carros: https://drive.google.com/drive/folders/1EmW9hLKAH1ISMD3a4YamgiE7MxtIFdWk?usp=drive_link
+
+
+Video: https://youtu.be/N60E0elo5jk
+
+- Cesar Martinho de Azeredo – RM568140
+- Carlos Alberto Florindo Costato – RM567005
+- Phellype Matheus Giacoia Flaibam Massarente – RM566826
+
++anacrissantos
