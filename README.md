@@ -100,7 +100,7 @@ O notebook é o documento principal da solucao, contendo codigo executado, resul
 
 ## Video demonstrativo
 
-O link do video demonstrativo sera adicionado aqui apos a gravacao e publicacao no YouTube como **nao listado**.
+[🎬 Assistir no YouTube](https://youtu.be/MTVtTXqwMz4)
 
 ---
 
@@ -150,7 +150,7 @@ Fluxo previsto:
 | Rotulacoes CSV | Disponiveis |
 | Notebook Jupyter/Colab | ✅ Disponivel |
 | Codigo final | ✅ Incluído no notebook |
-| Video demonstrativo | A gravar |
+| Video demonstrativo | ✅ [Assistir no YouTube](https://youtu.be/MTVtTXqwMz4) |
 
 ---
 
